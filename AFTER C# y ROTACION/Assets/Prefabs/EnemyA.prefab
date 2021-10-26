@@ -97,3 +97,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24a818c287b9bd44984b2fe37ea9b825, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  typeMovement: 1
+  speedEnemy: 5
+  aroundObject: {fileID: 0}
